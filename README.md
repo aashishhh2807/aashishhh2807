@@ -55,20 +55,20 @@ Additionally, I have experience with **CMOS transistor-level design and layout u
 
 ## 🎯 Current Focus
 
-I am currently exploring topics related to:
+I am currently exploring research and development topics related to:
 
-- Pipelined **RISC-V Processor Architectures**
-- **Hardware Accelerator Integration**
-- Parameterizable **RTL Design Methodologies**
-- FPGA-based **Architectural Prototyping**
-
+- Pipelined **RISC-V Processor Microarchitecture**
+- **Hardware Accelerator Integration** with processor subsystems
+- **SystemVerilog-based design and verification methodologies**
+- **Parameterizable and scalable RTL architectures**
+- **FPGA-based architectural prototyping and evaluation**
 ---
 
 ## 📫 Contact
 
 📧 **Email:** aashishmj2807@gmail.com  
-🔗 **LinkedIn:** (Add your LinkedIn profile link here)
+🔗 **LinkedIn:** www.linkedin.com/in/aashishm28
 
 ---
 
-⭐ *Always interested in collaborating on research projects related to RISC-V architecture, digital design, and FPGA systems.*
+⭐ *Always interested in collaborating on research projects related to RISC-V architecture, digital design and verification, and FPGA systems.*
