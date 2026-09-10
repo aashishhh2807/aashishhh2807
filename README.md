@@ -24,7 +24,6 @@ Key areas of interest include:
 
 ### Hardware Description & Programming
 - **Verilog** (Synthesizable RTL Design)
-- **SystemVerilog** (Design & Verification Concepts)
 - **C / C++**
 - **Python**
 
